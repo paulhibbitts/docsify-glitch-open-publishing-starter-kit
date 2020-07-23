@@ -1,4 +1,4 @@
-# Docsify Glitch Open Publishing Starter Kit
+# Docsify Open Publishing Starter Kit for Glitch
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/LICENSE)
@@ -6,7 +6,7 @@
 
 > This is a starter kit to create an open [Docsify](https://docsify.js.org) documentation site on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch.
 
-📸 Docsify Glitch Open Publishing Screenshot
+📸 Docsify Open Publishing for Glitch Screenshot
 ---
 ![ Docsify Glitch Open Publishing Starter Kit](screenshot.jpg)
 _Figure 1. Docsify Glitch Open Publishing Starter Kit. Explore a demo at [paulhibbitts-glitch-docsify-open-publishing-starter-kit.glitch.me/#/](https://paulhibbitts-glitch-docsify-open-publishing-starter-kit.glitch.me/#/)_
