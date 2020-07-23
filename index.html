@@ -34,6 +34,7 @@
       // repo: 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/',
       homepage: '/basics/overview.md',
       loadSidebar: true,
+      relativePath: false,
 
       // SIDEBAR NAVIGATION
       // -----------------------------------------------------------------
@@ -55,17 +56,8 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
-            } else {
-              url = 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/tree/master/docs/' + vm.route.file
-            }
-            var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
-
-            // Adjust GitHub displayable image URL format to also work in Docsify
-            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+            url = 'https://glitch.com/edit/#!/paulhibbitts-glitch-docsify-open-publishing-starter-kit?path=README.md%3A1%3A0'
+            var editHtml = '[:memo: View content on Glitch](' + url + ')\n'
 
             return editHtml
               + html
