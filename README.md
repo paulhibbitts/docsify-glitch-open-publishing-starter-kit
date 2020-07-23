@@ -27,7 +27,7 @@ _Figure 1. Docsify Glitch Open Publishing Starter Kit. Explore a demo at [paulhi
 ---
 
 1. Edit the file `index.html` in your Glitch files
-2. Find the sample GitHub repository URL `'https://glitch.com/edit/#!/paulhibbitts-glitch-docsify-open-publishing-starter-kit?path='` and replace it with your own repository URL, for example `'https://glitch.com/edit/#!/your-glitch-project-name?path='`
+2. Find the sample GitHub repository URL `'https://glitch.com/edit/#!/paulhibbitts-glitch-docsify-open-publishing-starter-kit'` and replace it with your own repository URL, for example `'https://glitch.com/edit/#!/your-glitch-project-name'`
 3. Save your changes.
 
 📚 Learn More about Docsify
