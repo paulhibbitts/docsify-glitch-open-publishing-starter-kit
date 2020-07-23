@@ -11,7 +11,7 @@
 ![ Docsify Glitch Open Publishing Starter Kit](screenshot.jpg)
 _Figure 1. Docsify Glitch Open Publishing Starter Kit. Explore a demo at [paulhibbitts-glitch-docsify-open-publishing-starter-kit.glitch.me/#/](https://paulhibbitts-glitch-docsify-open-publishing-starter-kit.glitch.me/#/)_
 
-🚀 Quick Docsify Open Publishing for Glitch Install Instructions
+🚀 Quick Glitch Install Instructions
 ---
 **Pre-flight Checklist**  
 
