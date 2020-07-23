@@ -1,1 +1,1 @@
-# glitch-docsify-open-publishing-starter-kit
+# docsify-glitch-open-publishing-starter-kit
