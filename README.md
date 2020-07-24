@@ -1,3 +1,5 @@
+THIS PROJECT IS NOW LOCATED AT https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch
+
 # Docsify Open Publishing Starter Kit for Glitch
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
